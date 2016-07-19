@@ -1,6 +1,6 @@
 # projects
 <p>This is site for personal projects</p>
-<p>Plug & Play</p>
+<h1>Plug & Play</h1>
 <p>https://github.com/Harrisonkamau/plug-and-play</p>
 <p>This is a site for Plug and Play technology company. On the site, a user can view the various software products that we make.</p>
 <h3>Features:</h3>
