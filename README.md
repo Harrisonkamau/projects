@@ -1,6 +1,11 @@
+<h1>Portfolio</h1>
+<p><a href="https://github.com/Harrisonkamau/harrisonkamau"repo</p>
+<p><a href="http://harrykamau.bitballoon.com/"/>Link</p>
+
+
 # projects
 <p>This is site for personal projects</p>
-1.<h1>Plug & Play</h1>
+<h1>Plug & Play</h1>
 <p>Visit my <a href="https://github.com/Harrisonkamau/plug-and-play"/>repo</a></p>
 <p>This is a site for Plug and Play technology company. On the site, a user can view the various software products that we make.</p>
 <h3>Features:</h3>
@@ -17,6 +22,5 @@
 <h3>Contributors</h3>
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
 
-2.<h1>Portfolio</h1>
-<
+
 
