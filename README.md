@@ -1,7 +1,7 @@
 <h1>Portfolio</h1>
+<p>This is a personal portfolio detailing my past and present work and accomplishments in my coding profession</p>
 <p><a href="https://github.com/Harrisonkamau/harrisonkamau"/>repo</a></p>
 <p><a href="http://harrykamau.bitballoon.com/"/>Link</a></p>
-<p>This is a personal portfolio detailing my past and present work and accomplishments in my coding profession</p>
 <h3>Features:</h3>
 <li>Home </li>
 <li>About</li>
