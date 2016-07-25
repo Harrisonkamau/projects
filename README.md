@@ -1,7 +1,7 @@
 # projects
 <p>This is site for personal projects</p>
-<h1>Plug & Play</h1>
-<p>https://github.com/Harrisonkamau/plug-and-play</p>
+1.<h1>Plug & Play</h1>
+<p>Visit my <a href="https://github.com/Harrisonkamau/plug-and-play"/>repo</a></p>
 <p>This is a site for Plug and Play technology company. On the site, a user can view the various software products that we make.</p>
 <h3>Features:</h3>
 <li>Home </li>
@@ -16,3 +16,7 @@
 
 <h3>Contributors</h3>
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
+
+2.<h1>Portfolio</h1>
+<
+
