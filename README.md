@@ -40,7 +40,7 @@
 
 <h1>Zinger Solutions Limited</h1>
 <p>Visit my <a href="https://github.com/Harrisonkamau/ZingerSolutions"/>repo</a></p>
-<p>This is a site for < a href="http://zingersolutionsltd.bitballoon.com" style="color:green;"/>Zinger Solutions Limited</a> company. On the site, a user can view the various software products that we make.</p>
+<p>This is a site for < a href="http://zingersolutionsltd.bitballoon.com/">Zinger Solutions Limited</a> company. On the site, a user can view the various software products that we make.</p>
 <h3>Features:</h3>
 <li>Home </li>
 <li>About Us</li>
