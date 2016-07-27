@@ -56,5 +56,24 @@
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
 
 
+<h1>Harrison Kamau</h1>
+<p>Visit my <a href="https://github.com/Harrisonkamau/Harrisonkamau.github.io"/>repo</a></p>
+<p>This is a mockup for a vicarious personal <a href="http://harrisonkamau.github.io/">site</a>. On the site, user contact information is validated.</p>
+<h3>Features:</h3>
+<li>My interests</li>
+<li>Professional Experience</li>
+<li>Aspirations</li>
+<li>Contact</li>
+
+<h3>Technologies used:</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>jQuery</li>
+<li>jQueryUI</li>
+
+<h3>Contributors</h3>
+<a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
+
+
 
 
