@@ -83,7 +83,7 @@
 <li>Create new Post</li>
 <li>Following</li>
 <li>Followers</li>
-<li>POst</li>
+<li>Post</li>
 
 <h3>Technologies used:</h3>
 <li>Flask</li>
