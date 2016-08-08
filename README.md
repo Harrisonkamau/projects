@@ -83,7 +83,7 @@
 <li>Create new Post</li>
 <li>Following</li>
 <li>Followers</li>
-<li>FPOst</li>
+<li>POst</li>
 
 <h3>Technologies used:</h3>
 <li>Flask</li>
@@ -92,6 +92,17 @@
 <li>CSS</li>
 <li>jQuery</li>
 <li>Python</li>
+
+<h3>Contributors</h3>
+<a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
+
+
+<h1>Real Time Chat App</h1>
+<p>Visit my <a href="https://github.com/Harrisonkamau/real-time-chat-app"/>repo</a></p>
+<p>A real time chat app built in Node.js, Express 4 and Socket.io. </p>
+<h3>Features:</h3>
+<li>Live chat between multiple users</li>
+
 
 <h3>Contributors</h3>
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
