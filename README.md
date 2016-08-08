@@ -74,6 +74,28 @@
 <h3>Contributors</h3>
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
 
+<h1>Social App</h1>
+<p>Visit my <a href="https://github.com/Harrisonkamau/social_app"/>repo</a></p>
+<p>A Flask app built to add,and view posts as well as follow and unfollow other registered users.</p>
+<h3>Features:</h3>
+<li>Login</li>
+<li>Register</li>
+<li>Create new Post</li>
+<li>Following</li>
+<li>Followers</li>
+<li>FPOst</li>
+
+<h3>Technologies used:</h3>
+<li>Flask</li>
+<li>Jinja2</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>jQuery</li>
+<li>Python</li>
+
+<h3>Contributors</h3>
+<a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
+
 
 
 
