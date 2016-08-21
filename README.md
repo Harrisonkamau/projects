@@ -97,6 +97,28 @@
 <a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
 
 
+<h1>Cake Shop</h1>
+<p>Visit my <a href="https://github.com/Harrisonkamau/cake-shop"/>repo</a></p>
+<p>A Flask app built to buy cakes online.</p>
+<h3>Features:</h3>
+<li>Login</li>
+<li>Register</li>
+<h3>Still coming:</h3>
+<li>Use of Visa Card, Mpesa to make payments</li>
+<li>Order online</li>
+<li>Registered user buying for multiple users</li>
+<li>Get SMS notification after purchase</li>
+<li>Delivery reminder</li>
+<li>Android app</li>
+
+<h3>Technologies used:</h3>
+<li>Flask</li>
+<li>JavaScript</li>
+
+<h3>Contributors</h3>
+<a href="https://github.com/Harrisonkamau/">Harrison Kamau</a>
+
+
 <h1>Real Time Chat App</h1>
 <p>Visit my <a href="https://github.com/Harrisonkamau/real-time-chat-app"/>repo</a></p>
 <p>A real time chat app built in Node.js, Express 4 and Socket.io. </p>
